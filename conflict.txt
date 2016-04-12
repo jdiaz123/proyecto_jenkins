@@ -1,1 +1,2 @@
 texto para generar conflicto de prueba
+master text + conflicto
